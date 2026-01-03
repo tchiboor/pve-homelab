@@ -1,0 +1,10 @@
+*.log
+*.swp
+*.bak
+*.img
+*.qcow2
+*.iso
+*.vmdk
+*.vdi
+*.pem
+*.key
